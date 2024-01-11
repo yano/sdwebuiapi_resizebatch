@@ -1,2 +1,13 @@
 # sdwebuiapi_resizebatch
 resize batcher by using sdwebuiapi
+
+## how to use
+- create batch dir list by WindowsFormsAppListCreater.exe (Drag and drop dirs and push Write List button.)
+- python sdwebuiapi.py dir_list.txt
+
+![image](https://github.com/yano/sdwebuiapi_resizebatch/assets/24616900/697e35ed-a0fe-4d65-b8b1-587e81220e17)
+
+## requirement
+sdwebui https://github.com/AUTOMATIC1111/stable-diffusion-webui
+sdwebuiapi https://github.com/mix1009/sdwebuiapi
+
