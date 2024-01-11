@@ -1,0 +1,10 @@
+C:\Users\ydk\source\repos\WindowsFormsAppListCreater\bin\Debug\WindowsFormsAppListCreater.exe.config
+C:\Users\ydk\source\repos\WindowsFormsAppListCreater\bin\Debug\WindowsFormsAppListCreater.exe
+C:\Users\ydk\source\repos\WindowsFormsAppListCreater\bin\Debug\WindowsFormsAppListCreater.pdb
+C:\Users\ydk\source\repos\WindowsFormsAppListCreater\obj\Debug\WindowsFormsAppListCreater.csproj.AssemblyReference.cache
+C:\Users\ydk\source\repos\WindowsFormsAppListCreater\obj\Debug\WindowsFormsAppListCreater.Form1.resources
+C:\Users\ydk\source\repos\WindowsFormsAppListCreater\obj\Debug\WindowsFormsAppListCreater.Properties.Resources.resources
+C:\Users\ydk\source\repos\WindowsFormsAppListCreater\obj\Debug\WindowsFormsAppListCreater.csproj.GenerateResource.cache
+C:\Users\ydk\source\repos\WindowsFormsAppListCreater\obj\Debug\WindowsFormsAppListCreater.csproj.CoreCompileInputs.cache
+C:\Users\ydk\source\repos\WindowsFormsAppListCreater\obj\Debug\WindowsFormsAppListCreater.exe
+C:\Users\ydk\source\repos\WindowsFormsAppListCreater\obj\Debug\WindowsFormsAppListCreater.pdb
