@@ -7,7 +7,7 @@ resize batcher by using sdwebuiapi
 
 ![image](https://github.com/yano/sdwebuiapi_resizebatch/assets/24616900/697e35ed-a0fe-4d65-b8b1-587e81220e17)
 
-## requirement
-sdwebui https://github.com/AUTOMATIC1111/stable-diffusion-webui
-sdwebuiapi https://github.com/mix1009/sdwebuiapi
+## requirements
+- sdwebui https://github.com/AUTOMATIC1111/stable-diffusion-webui
+- sdwebuiapi https://github.com/mix1009/sdwebuiapi
 
